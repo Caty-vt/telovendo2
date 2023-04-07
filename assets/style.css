@@ -1,0 +1,19 @@
+.container{
+    margin-bottom: 100px !important;
+}
+
+footer {
+    position: fixed;
+    text-align: center;
+    left: 0px;
+    bottom: 0px;
+    height: 30px;
+    width: 100%;
+    background: #000000;
+    padding-top: 15px;
+    padding-bottom: 45px;
+    color: aliceblue;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
